@@ -4,11 +4,11 @@
 
 # for env variables
 
-    -- go install github.com/joho/dotenv
+    -- go get github.com/joho/dotenv
 
 # for http requests
 
-    -- go install github.com/gin-gonic/gin@latest
+    -- go get github.com/gin-gonic/gin@latest
 
 # for orm querys
 
