@@ -26,6 +26,13 @@
 
     -- source ~/.zshrc
 
-# then last run project
+# then last run project for compilelogs
 
     -- CompileDaemon -command="./project name"
+
+# for required packages installed 
+    go mod tidy
+
+# then run the project
+
+    go run main.go
